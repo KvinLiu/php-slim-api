@@ -1,0 +1,12 @@
+{
+    "name": "kvinliu/slim-app",
+    "require": {
+        "slim/slim": "^3.8"
+    },
+    "authors": [
+        {
+            "name": "Kevin Liu",
+            "email": "kevin07liu@gmail.com"
+        }
+    ]
+}
