@@ -11,4 +11,13 @@ $app->get('/hello/{name}', function (Request $request, Response $response) {
 
     return $response;
 });
+
+// Customer Routes
+
+// Get All Customers
+$app->get('/api/customers', function (Request $request, Response $response) {
+    echo "Hello";
+
+});
+
 $app->run();
